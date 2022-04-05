@@ -1,6 +1,6 @@
-# WEBPACK INITIAL CONFIGS
+# Practice SOLID
 
-Initial configuration of webpack for any JavaScript project that works with this technology.
+Class and http service management practice applying SOLID
 
 ## Notes
 
